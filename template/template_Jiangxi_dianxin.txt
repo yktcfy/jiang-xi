@@ -12,5 +12,3 @@ http://ipipip/rtp/239.252.219.113:5140
 http://ipipip/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 http://ipipip/rtp/239.252.220.241:5140
-#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="卫视高清",河南梨园
-http://ipipip/rtp/239.252.220.179:5140
