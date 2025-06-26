@@ -1,18 +1,18 @@
 Jiangxi_dianxin-组播,#genre#
 #EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
-http://106.5.78.114:4022/rtp/239.252.220.238:5140
+http://106.5.79.175:4022/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
-http://106.5.78.114:4022/rtp/239.252.219.173:5140
+http://106.5.79.175:4022/rtp/239.252.219.173:5140
 #EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
-http://106.5.78.114:4022/rtp/239.252.220.242:5140
+http://106.5.79.175:4022/rtp/239.252.220.242:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
-http://106.5.78.114:4022/rtp/239.252.220.102:5140
+http://106.5.79.175:4022/rtp/239.252.220.102:5140
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
-http://106.5.78.114:4022/rtp/239.252.219.113:5140
+http://106.5.79.175:4022/rtp/239.252.219.113:5140
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
-http://106.5.78.114:4022/rtp/239.252.220.100:5140
+http://106.5.79.175:4022/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
-http://106.5.78.114:4022/rtp/239.252.220.179:5140
+http://106.5.79.175:4022/rtp/239.252.220.179:5140
 #EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
 http://111.72.202.250:7088/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
@@ -42,19 +42,19 @@ http://111.77.250.97:4022/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
 http://111.77.250.97:4022/rtp/239.252.220.179:5140
 #EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
-http://111.79.127.31:8688/rtp/239.252.220.238:5140
+http://111.79.127.194:8688/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
-http://111.79.127.31:8688/rtp/239.252.219.173:5140
+http://111.79.127.194:8688/rtp/239.252.219.173:5140
 #EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
-http://111.79.127.31:8688/rtp/239.252.220.242:5140
+http://111.79.127.194:8688/rtp/239.252.220.242:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
-http://111.79.127.31:8688/rtp/239.252.220.102:5140
+http://111.79.127.194:8688/rtp/239.252.220.102:5140
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
-http://111.79.127.31:8688/rtp/239.252.219.113:5140
+http://111.79.127.194:8688/rtp/239.252.219.113:5140
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
-http://111.79.127.31:8688/rtp/239.252.220.100:5140
+http://111.79.127.194:8688/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
-http://111.79.127.31:8688/rtp/239.252.220.179:5140
+http://111.79.127.194:8688/rtp/239.252.220.179:5140
 #EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
 http://171.35.84.178:8688/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
@@ -98,6 +98,20 @@ http://220.176.218.147:9000/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
 http://220.176.218.147:9000/rtp/239.252.220.179:5140
 #EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
+http://59.52.61.171:8008/rtp/239.252.220.238:5140
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
+http://59.52.61.171:8008/rtp/239.252.219.173:5140
+#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
+http://59.52.61.171:8008/rtp/239.252.220.242:5140
+#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
+http://59.52.61.171:8008/rtp/239.252.220.102:5140
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
+http://59.52.61.171:8008/rtp/239.252.219.113:5140
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+http://59.52.61.171:8008/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://59.52.61.171:8008/rtp/239.252.220.179:5140
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
 http://59.52.62.106:8008/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
 http://59.52.62.106:8008/rtp/239.252.219.173:5140
@@ -111,3 +125,73 @@ http://59.52.62.106:8008/rtp/239.252.219.113:5140
 http://59.52.62.106:8008/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
 http://59.52.62.106:8008/rtp/239.252.220.179:5140
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
+http://59.55.67.121:6001/rtp/239.252.220.238:5140
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
+http://59.55.67.121:6001/rtp/239.252.219.173:5140
+#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
+http://59.55.67.121:6001/rtp/239.252.220.242:5140
+#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
+http://59.55.67.121:6001/rtp/239.252.220.102:5140
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
+http://59.55.67.121:6001/rtp/239.252.219.113:5140
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+http://59.55.67.121:6001/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://59.55.67.121:6001/rtp/239.252.220.179:5140
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
+http://59.55.67.121:6002/rtp/239.252.220.238:5140
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
+http://59.55.67.121:6002/rtp/239.252.219.173:5140
+#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
+http://59.55.67.121:6002/rtp/239.252.220.242:5140
+#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
+http://59.55.67.121:6002/rtp/239.252.220.102:5140
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
+http://59.55.67.121:6002/rtp/239.252.219.113:5140
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+http://59.55.67.121:6002/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://59.55.67.121:6002/rtp/239.252.220.179:5140
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
+http://59.55.67.121:6003/rtp/239.252.220.238:5140
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
+http://59.55.67.121:6003/rtp/239.252.219.173:5140
+#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
+http://59.55.67.121:6003/rtp/239.252.220.242:5140
+#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
+http://59.55.67.121:6003/rtp/239.252.220.102:5140
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
+http://59.55.67.121:6003/rtp/239.252.219.113:5140
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+http://59.55.67.121:6003/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://59.55.67.121:6003/rtp/239.252.220.179:5140
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
+http://59.55.67.121:6004/rtp/239.252.220.238:5140
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
+http://59.55.67.121:6004/rtp/239.252.219.173:5140
+#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
+http://59.55.67.121:6004/rtp/239.252.220.242:5140
+#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
+http://59.55.67.121:6004/rtp/239.252.220.102:5140
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
+http://59.55.67.121:6004/rtp/239.252.219.113:5140
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+http://59.55.67.121:6004/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://59.55.67.121:6004/rtp/239.252.220.179:5140
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
+http://59.55.67.121:6005/rtp/239.252.220.238:5140
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
+http://59.55.67.121:6005/rtp/239.252.219.173:5140
+#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
+http://59.55.67.121:6005/rtp/239.252.220.242:5140
+#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
+http://59.55.67.121:6005/rtp/239.252.220.102:5140
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
+http://59.55.67.121:6005/rtp/239.252.219.113:5140
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+http://59.55.67.121:6005/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://59.55.67.121:6005/rtp/239.252.220.179:5140
